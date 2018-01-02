@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <title>约书——共享图书开拓者</title>
+  <style> 
+.divcss5 img{ width:100%; height:100% top:0; left: 0} img{float:left;}
+</style> 
+<link href="css/style.css" rel="stylesheet" type="text/css" >
+</head> 
+ 
+<body > 
+<div  class="divcss5"> 
+   <img src="img/p1@2x.jpg"><br> 
+   <img src="img/p2@2x.jpg"><br> 
+   <img src="img/p3@2x.jpg"><br> 
+</div>
+
+   <div class="d_foorer">
+      <b class="d_logo"><img src="img/logo@2x.png"></b>
+      <p class="d_name">约书——共享图书开拓者</p>
+      <a class="d_open" href="http://a.app.qq.com/o/simple.jsp?pkgname=cc.datebook.app">立即下载</a>
+   </div>
+   
+ <style type="text/css">
+        body{
+            padding:0px;
+            margin:0px;
+        }/*用程序样式表去除body四周的间距*/
+    </style>
+</div> 
+</body>
+</html>

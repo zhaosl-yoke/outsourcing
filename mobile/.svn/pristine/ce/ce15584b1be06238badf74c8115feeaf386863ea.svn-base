@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>测试</title>
+		<meta http-equiv="Access-Control-Allow-Origin" content="*"> 
+		<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no" />
+	</head>
+	<body>
+		<script type="text/javascript" src="js/common/jquery-1.12.1.min.js"></script>
+		<script type="text/javascript" src="js/common/rem.js"></script>
+		<script type="text/javascript">
+			var mobile = 11111111111;
+			var userPwd = 'c2a07c15927ca18f5b9f18666f933445';
+			/*$.ajax({
+				type:"post",
+				url:"http://test.datebook.cc/datebook/account/login",
+				async:true,
+				contentType: "application/json",
+			    success:function(data) {
+			    	console.log(data);
+			    },
+			    data:{
+			    	"mobile":mobile,
+			    	"userPwd":userPwd,
+			    	"device_type":0,
+			    	"longitude":0,
+			    	"latitude":0,
+			    	"uuid":"12",
+			    	"loginType":0
+			    }
+			});*/
+			/*$.ajax({
+				type:"post",
+				url:"https://www.artapp.cn/ArtAppInst2/dictionary/getDictionaryInfo",
+				async:true,
+				success:function(data) {
+					
+				},
+				data:{
+					'typeId':01,
+					'token':'94877833-73f3-43e7-864b-34dcdd557380'
+				}
+			});*/
+			
+		</script>
+	</body>
+</html>

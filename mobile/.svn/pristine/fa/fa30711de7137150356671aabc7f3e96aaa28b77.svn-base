@@ -1,0 +1,49 @@
+.contianer{
+	
+}
+.container .top{
+	height: 0.12rem;
+	background: #f3f5f2;
+}
+.container .tab{
+	padding: 0.15rem 0.15rem 0 0.15rem;
+	display: flex;
+	flex-wrap: wrap;
+}
+.container .tab .active{
+	margin-bottom: 0.15rem;
+	margin-right: 0.15rem;
+	height: 0.3rem;
+	width: 0.9rem;
+	text-align: center;
+	background: #58d68d;
+	line-height: 0.3rem;
+	border-radius: 0.15rem;
+	color: #fff;
+}
+.container .tab li{
+	margin-bottom: 0.15rem;
+	margin-right: 0.15rem;
+	height: 0.3rem;
+	width: 0.9rem;
+	text-align: center;
+	background: #eaeaea;
+	color: #999;
+	line-height: 0.3rem;
+	border-radius: 0.15rem;
+}
+.container .question{
+	padding: 0 0.15rem;
+}
+.container .question li{
+	border-bottom: solid 1px #ededed;
+}
+.container .question li .title{
+	display: flex;
+	height: 0.62rem;
+	align-items: center;
+	justify-content: space-between;
+}
+.container .question li .title img{
+	width: 0.15rem;
+}
